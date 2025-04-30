@@ -1,16 +1,4 @@
 # mcpserver
-MONADMCPSERVER(sse transport)(works with cursor and vscode)
-config file:
-mcp.json(global):
-{
-  "mcpServers": {
-    "monad-mcp-sse": {
-      "url": "yourlocalserverurl/sse"
-    }
-  }
-}
-
-
 
 START GUIDE:
 get your creditionals from blockvision, pinata(ifps), alchemy, magiceden, imgflip and update .env(replace .env.example to .env)
