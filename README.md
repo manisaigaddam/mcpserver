@@ -9,3 +9,13 @@ get your creditionals from blockvision, pinata(ifps), alchemy, magiceden, imgfli
 
 YOUR SERVER IS RUNNING:
 you can send, swap, stake, create meme(also mint it as nft), naddotfun features, nadnameservice(domains), magiceden features, implemented with blockvision and alchemy for indexing and blockexplorer details.
+
+
+{
+  "mcpServers": {
+    ...
+    "monad-mcp-sse": {
+      "url": "[your_app_vercel_url]/sse"
+    }
+  }
+}
