@@ -5,9 +5,6 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
-  '@api/tallal-test':
-    specifier: link:C:/Users/saiga/OneDrive/Desktop/dopedogesbot/mcp/mcp/.api/apis/tallal-test
-    version: link:.api/apis/tallal-test
   '@modelcontextprotocol/sdk':
     specifier: ^1.8.0
     version: 1.8.0
